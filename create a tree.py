@@ -9,34 +9,3 @@ for i in range(1, user_input1+1):
 for i in range(1, user_input1 +1):
     print(" " *(user_input1 - i) + ('*' * (2*i -1)))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        
-
