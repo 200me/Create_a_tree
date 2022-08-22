@@ -1,4 +1,4 @@
-user_input1 = int(input("줄 수를 입력해주세요. :"))
+user_input1 = int(input("Please enter the number of lines. :"))
 
 for i in range(1, user_input1+1):
     print("*"*i)
